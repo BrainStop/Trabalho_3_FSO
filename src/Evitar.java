@@ -1,14 +1,12 @@
 /**
- * Codigo fabuloso feito pelo shityWizard
- * @author  Goncalo Olivera
- * @since   1.0
+ *
  */
 public class Evitar {
 	
 	public static final String TERMINAR_EVITAR = "TerminarEvitar"; 
 	
 	/**
-	 *  Dist‚ncia que o robot se deslocar·
+	 *  Dist√¢ncia que o robot se deslocar√°
 	 */
 	private static final int DIST = -15;
 	
@@ -28,7 +26,7 @@ public class Evitar {
 	private static final int ANGULO = 90;
 	
 	/**
-	 * Identificador do robot que a class ir· controlar
+	 * Identificador do robot que a class ir√° controlar
 	 */
 	private static final String NOME_ROBO  = "FSO1";
 	
